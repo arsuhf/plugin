@@ -1,11 +1,11 @@
 ---
+version: 0.3.0
 name: higgsfield-soul-id
-description: |
-  Train a Higgsfield Soul Character for identity-faithful generation. Use when
-  the user wants to train their face, digital twin, avatar, or reusable face
-  reference for images/videos. Not for one-shot face swaps or non-photo
-  characters.
-allowed-tools: Bash
+description: >-
+  Train a Higgsfield Soul Character for identity-faithful generation from face
+  photos. Use for reusable face references, digital twins, avatars, or identity
+  setup for generated images and videos. Not for one-shot face swaps or
+  non-photo character prompts.
 ---
 
 # Higgsfield Soul Character

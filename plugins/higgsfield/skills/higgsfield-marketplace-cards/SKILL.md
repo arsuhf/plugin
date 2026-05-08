@@ -1,11 +1,11 @@
 ---
+version: 0.3.0
 name: higgsfield-marketplace-cards
-description: |
-  Create marketplace-ready product listing visuals with the Higgsfield CLI.
-  Use when the user asks for main images, secondary product images, A+
-  modules, listing infographics, or product cards. Not for generic product photos, video ads,
-  or Soul Character training.
-allowed-tools: Bash
+description: >-
+  Generate marketplace-ready product image cards with Higgsfield, including
+  compliant main images, secondary product images, infographics, lifestyle
+  listing shots, marketplace image sets, and A+ style modules. Not for generic
+  product photography, video ads, or Soul Character training.
 ---
 
 # Marketplace Cards

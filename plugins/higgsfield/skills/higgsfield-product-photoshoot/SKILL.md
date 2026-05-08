@@ -1,11 +1,12 @@
 ---
+version: 0.3.0
 name: higgsfield-product-photoshoot
-description: |
-  Generate brand-quality product photos with the Higgsfield product-photoshoot
-  CLI. Use when the user asks for product shots, lifestyle scenes, hero
-  banners, Pinterest pins, ad creatives, virtual try-on, or social carousels. Not for video ads,
-  marketplace cards, Soul training, or generic no-product text-to-image.
-allowed-tools: Bash
+description: >-
+  Generate brand-quality product images with Higgsfield product-photoshoot prompt
+  enhancement on GPT Image 2. Use for product photos, studio shots, lifestyle
+  scenes, Pinterest pins, hero banners, social carousels, ad creatives, virtual
+  try-on, conceptual product imagery, and restyles. Not for video ads,
+  marketplace cards, Soul training, or generic no-product generation.
 ---
 
 # Product Photoshoot
