@@ -1,6 +1,6 @@
 # Higgsfield
 
-Higgsfield brings AI image and video creation workflows into Codex through the hosted Higgsfield MCP server.
+Higgsfield brings AI image and video creation workflows into Codex through the hosted Higgsfield MCP server for OpenAI clients.
 
 Use this plugin to generate images and videos, inspect generation jobs, manage uploaded media, open marketing asset workflows, work with character tools, view billing and credits, and analyze videos with Virality Predictor.
 
@@ -11,13 +11,13 @@ Use this plugin to generate images and videos, inspect generation jobs, manage u
   "mcpServers": {
     "higgsfield": {
       "type": "http",
-      "url": "https://mcp.higgsfield.ai/mcp"
+      "url": "https://openai-mcp.higgsfield.ai/mcp"
     }
   }
 }
 ```
 
-The MCP server requires authenticated Higgsfield access on first use.
+The OpenAI/Codex MCP endpoint requires authenticated Higgsfield access on first use. Higgsfield also maintains the general MCP endpoint at `https://mcp.higgsfield.ai/mcp` for non-OpenAI clients.
 
 ## Common Workflows
 
