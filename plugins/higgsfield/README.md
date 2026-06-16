@@ -11,7 +11,8 @@ Use this plugin to generate images and videos, inspect generation jobs, manage u
   "mcpServers": {
     "higgsfield": {
       "type": "http",
-      "url": "https://openai-mcp.higgsfield.ai/mcp"
+      "url": "https://openai-mcp.higgsfield.ai/mcp",
+      "note": "Higgsfield AI MCP server for OpenAI/Codex clients. Uses authenticated Higgsfield access and provides tools for image/video generation, media and job workflows, marketing assets."
     }
   }
 }

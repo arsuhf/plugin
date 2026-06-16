@@ -7,7 +7,6 @@
     "url": "https://higgsfield.ai"
   },
   "homepage": "https://higgsfield.ai",
-  "repository": "https://github.com/higgsfield-ai/fnf-mcp-server",
   "license": "MIT",
   "keywords": [
     "higgsfield",
@@ -19,6 +18,7 @@
     "mcp"
   ],
   "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
   "interface": {
     "displayName": "Higgsfield",
     "shortDescription": "Generate images, videos, marketing assets, and analyze virality with Higgsfield MCP",
@@ -34,11 +34,10 @@
     "privacyPolicyURL": "https://higgsfield.ai/privacy-policy",
     "termsOfServiceURL": "https://higgsfield.ai/terms-of-use-agreement",
     "defaultPrompt": [
-      "Create a cinematic short video with Higgsfield",
-      "Analyze this video with Virality Predictor"
+      "Create a cinematic short video with Higgsfield"
     ],
-    "composerIcon": "./assets/icon.svg",
-    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/higgsfield-small.svg",
+    "logo": "./assets/higgsfield.png",
     "screenshots": [],
     "brandColor": "#C8FF3D"
   }
