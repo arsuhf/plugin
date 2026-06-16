@@ -17,7 +17,7 @@ Use this plugin to generate images and videos, inspect generation jobs, manage u
 }
 ```
 
-The OpenAI/Codex MCP endpoint requires authenticated Higgsfield access on first use. Higgsfield also maintains the general MCP endpoint at `https://mcp.higgsfield.ai/mcp` for non-OpenAI clients.
+The OpenAI/Codex MCP endpoint requires authenticated Higgsfield access on first use.
 
 ## Common Workflows
 
@@ -36,6 +36,5 @@ Higgsfield uses authenticated access for account-specific workflows such as gene
 ## Links
 
 - Website: https://higgsfield.ai
-- MCP server repository: https://github.com/higgsfield-ai/fnf-mcp-server
 - Privacy Policy: https://higgsfield.ai/privacy-policy
 - Terms of Use: https://higgsfield.ai/terms-of-use-agreement
